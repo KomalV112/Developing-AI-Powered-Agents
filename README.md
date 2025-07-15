@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Agents – Community Engagement & Game Assistant (COMP308 Lab #4)
+# 🧠 AI-Powered Agents – Community Engagement 
 
 Welcome!  
 This project demonstrates how to **build intelligent, AI-driven assistants** that:
