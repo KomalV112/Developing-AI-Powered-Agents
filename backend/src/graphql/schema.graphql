@@ -1,0 +1,17 @@
+type CommunityPost {
+  id: ID!
+  title: String!
+  content: String!
+  author: String!
+  createdAt: String!
+}
+
+type AIResponse {
+  text: String!
+  suggestedQuestions: [String]!
+  retrievedPosts: [CommunityPost]!
+}
+
+type Query {
+  communityAIQuery(input: String!): AIResponse!
+}
